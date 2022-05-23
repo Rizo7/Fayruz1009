@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rizo7
+- 👋 Hi, I’m Safarov Fayruz
 - 👀 I’m interested in ...backend, Laravel
 - 🌱 I’m currently learning ...Laravel 8 
 - 💞️ I’m looking to collaborate on ...
